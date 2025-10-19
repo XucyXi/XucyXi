@@ -56,9 +56,9 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 📊 GitHub Stats
 
-![Xucy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xucy&show_icons=true&theme=radical)
+![Xucy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XucyXi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xucy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XucyXi&layout=compact&theme=radical)
 
 ## 🌟 What I Bring to the Table
 
@@ -74,7 +74,8 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 📫 Let's Connect
 
-- **Email**: [xucyxi@gmail.com]
+![Discord](https://img.shields.io/badge/Discord-xucy-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Email](https://img.shields.io/badge/xucyxi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🎯 Currently Exploring
 
