@@ -72,7 +72,7 @@ I'm constantly working on new projects across different domains including web ap
 
 > "Good code is not just about making it work. It's about making it maintainable, scalable, and understandable. The best solutions are often the simplest ones that solve the problem effectively. Although sometimes you have to go the rough way to get progress."
 
-## 📫 Let's Connect
+## 📫 How to Contact Me
 
 ![Discord](https://img.shields.io/badge/Discord-xucy-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Email](https://img.shields.io/badge/xucyxi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
