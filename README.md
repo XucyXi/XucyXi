@@ -74,10 +74,7 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [Coming Soon]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
-- **Blog**: [Your Dev Blog - Optional]
+- **Email**: [xucyxi@gmail.com]
 
 ## 🎯 Currently Exploring
 
