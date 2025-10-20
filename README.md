@@ -60,13 +60,14 @@ I'm constantly working on new projects across different domains including web ap
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XucyXi&layout=compact&theme=radical)
 
-## 🌟 What I Bring to the Table
+🌟 **What I Bring to the Table**
 
-- **Fullstack Proficiency**: Seamlessly work across frontend and backend technologies
-- **Clean Code Advocate**: Writing maintainable, well-documented code
-- **Problem Solver**: Analytical approach to complex technical challenges
-- **Continuous Learner**: Always exploring new technologies and best practices
-- **Project Diversity**: Experience across various domains and project types
+* **Fullstack Proficiency:** Seamlessly work across frontend and backend technologies
+* **Clean Code Advocate:** Writing maintainable, well-documented code
+* **Problem Solver:** Analytical approach to complex technical challenges
+* **Continuous Learner:** Always exploring new technologies and best practices
+* **Project Diversity:** Experience across various domains and project types
+* **Team Leadership:** Led teams through multiple projects, fostering collaboration, clear communication, and timely delivery
 
 ## 💡 Philosophy
 
