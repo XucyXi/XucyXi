@@ -46,7 +46,7 @@ I'm a passionate software engineer who loves building innovative solutions acros
 
 ## 🚀 Featured Projects
 
-### 🎲 [Die Roller](https://github.com/Xucy/die-roller) (available soon)
+### 🎲 [Die Roller](https://github.com/Xucy/die-roller)
 _A colorful terminal-based probability simulator with interactive features and easter eggs_
 - **Tech:** Python, ANSI Color Codes, Cross-platform Compatibility
 - **Features:** Random generation, Easter eggs, User-friendly interface
