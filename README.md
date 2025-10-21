@@ -85,5 +85,3 @@ I'm constantly working on new projects across different domains including web ap
 - Machine learning and data science applications
 - Game development with GoDot 4
 - Open source contributions
-
----
