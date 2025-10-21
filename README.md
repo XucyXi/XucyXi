@@ -71,7 +71,7 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 💡 Philosophy
 
-> "Good code is not just about making it work. It's about making it maintainable, scalable, and understandable. The best solutions are often the simplest ones that solve the problem effectively. Although sometimes you have to go the rough way to get progress."
+> "Good code is not just about making it work. It's about making it maintainable, scalable and understandable. The best solutions are often the simplest ones that solve the problem effectively. Although sometimes you have to go the rough way to get progress done."
 
 ## 📫 How to Contact Me
 
