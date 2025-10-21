@@ -83,6 +83,7 @@ I'm constantly working on new projects across different domains including web ap
 - Advanced JavaScript frameworks (React, Vue, Angular)
 - Cloud technologies and DevOps practices
 - Machine learning and data science applications
+- Game development with GoDot 4
 - Open source contributions
 
 ---
