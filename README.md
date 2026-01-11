@@ -51,6 +51,11 @@ _A colorful terminal-based probability simulator with interactive features and e
 - **Tech:** Python, ANSI Color Codes, Cross-platform Compatibility
 - **Features:** Random generation, Easter eggs, User-friendly interface
 
+### [【 Index Order 】](https://github.com/XucyXi/Index-Orders)
+_A randomized generator and management tool for "Prescripts" (Orders), designed for tabletop narrative or combat scenarios._
+- **Tech:** Python, PySide6 GUI Framework, UI Loading, Cross-platform Compatibility
+- **Features:** Random Generation, Data Management, Persistence, Categorization
+
 ### 🔄 More Projects Coming Soon...
 I'm constantly working on new projects across different domains including web applications, automation tools, and creative coding experiments.
 
