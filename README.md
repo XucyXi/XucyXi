@@ -21,7 +21,7 @@ Yb,_  "8b,   d8"                                             `8,,8'   d8'    a  
 
 **Software Engineer | Fullstack Developer | Creative Problem Solver**
 
-I'm a passionate software engineer who loves building innovative solutions across the entire technology stack. From elegant front-end interfaces to robust back-end systems, I enjoy bringing ideas to life through code.
+I'm a passionate software engineer who loves building innovative solutions across the entire technology stack. From elegant front-end interfaces to robust back-end and machine learning systems, I enjoy bringing ideas to life through code.
 
 ## 🛠️ Technical Skills
 
@@ -98,5 +98,6 @@ I'm constantly working on new projects across different domains including web ap
 - Advanced JavaScript frameworks (React, Vue, Angular)
 - Cloud technologies and DevOps practices
 - Machine learning and data science applications
+- Artificial Intelligence technologies
 - Game development with GoDot 4
 - Open source contributions
