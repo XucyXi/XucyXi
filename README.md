@@ -61,19 +61,7 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=XucyXi&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  ![Xucy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XucyXi&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XucyXi&layout=compact&theme=radical)
-
-  <br><br>
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XucyXi&theme=dark)](https://git.io/streak-stats)
 
 🌟 **What I Bring to the Table**
 
