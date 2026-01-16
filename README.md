@@ -62,7 +62,7 @@ I'm constantly working on new projects across different domains including web ap
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XucyXi&theme=dark)](https://git.io/streak-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=XucyXi&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 🌟 **What I Bring to the Table**
 
