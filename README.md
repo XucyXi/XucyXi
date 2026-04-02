@@ -1,92 +1,63 @@
-```i
- ,ggg,          ,gg                                           ,gg,      ,ggggggg, 
-dP"""Y8,      ,dP'                                           i8""8i   ,dP""""""Y8b
-Yb,_  "8b,   d8"                                             `8,,8'   d8'    a  Y8
- `""    Y8,,8P'                                               `88'    88     "Y8P'
-         Y88"                                                 dP"8,   `8baaaa     
-        ,888b       gg      gg    ,gggg,  gg     gg          dP' `8a ,d8P""""     
-       d8" "8b,     I8      8I   dP"  "Yb I8     8I         dP'   `Ybd8"          
-     ,8P'    Y8,    I8,    ,8I  i8'       I8,   ,8I     _ ,dP'     I8Y8,          
-    d8"       "Yb, ,d8b,  ,d8b,,d8,_    _,d8b, ,d8I     "888,,____,dP`Yba,,_____, 
-  ,8P'          "Y88P'"Y88P"`Y8P""Y8888PPP""Y88P"888    a8P"Y88888P"   `"Y8888888 
-                                               ,d8I'                              
-                                             ,dP'8I                               
-          Engineering,                      ,8"  8I                               
-                 one day                    I8   8I                               
-                   at a time                `8, ,8I                               
-                                             `Y8P"
-```
+# JERE LAPPALAINEN ("Xucy")
 
-# Hi there, I'm Xucy!
+**Software Engineer | Lead Developer, Founder @ Xucy Studios | AI & ML Engineering Student**
 
-**Software Engineer | Fullstack Developer | Creative Problem Solver**
+I am a software engineer based in Helsinki, specializing in Full-stack development, Artificial Intelligence, and Machine Learning. I currently lead technical development at my own indie studio, where I oversee software architecture, project management, and implementation. I am passionate about writing clean, maintainable code and solving complex technical challenges across the entire technology stack.
 
-I'm a passionate software engineer who loves building innovative solutions across the entire technology stack. From elegant front-end interfaces to robust back-end and machine learning systems, I enjoy bringing ideas to life through code.
+---
 
-## 🛠️ Technical Skills
+## Technical Competencies
 
-### **Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Frontend & Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4A4A55?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Database & Data**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=database&logoColor=white)
+### Backend & APIs
+![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white) ![Database Architecture](https://img.shields.io/badge/Database_Architecture-336791?style=for-the-badge&logo=databricks&logoColor=white)
 
-### **Fullstack Specialization**
-- **End-to-End Development** - From concept to deployment
-- **RESTful APIs** - Building scalable backends
-- **Responsive Design** - Mobile-first approaches
-- **Database Architecture** - Efficient data modeling
+### AI & Game Dev
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-## 🚀 Featured Projects
+### Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-5C2D91?style=for-the-badge&logo=azure-devops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-008CB9?style=for-the-badge&logo=jira&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### 🎲 [Die Roller](https://github.com/XucyXi/die-roller)
-_A colorful terminal-based probability simulator with interactive features and easter eggs_
-- **Tech:** Python, ANSI Color Codes, Cross-platform Compatibility
-- **Features:** Random generation, Easter eggs, User-friendly interface
+---
 
-### [【 Index Order 】](https://github.com/XucyXi/Index-Orders)
-_A randomized generator and management tool for "Prescripts" (Orders), designed for tabletop narrative or combat scenarios._
-- **Tech:** Python, PySide6 GUI Framework, UI Loading, Cross-platform Compatibility
-- **Features:** Random Generation, Data Management, Persistence, Categorization
+## Featured Projects
 
-### 🔄 More Projects Coming Soon...
-I'm constantly working on new projects across different domains including web applications, automation tools, and creative coding experiments.
+### [Xucy Studios](https://xucystudios.com) - Lead Developer
+*Directing the technical architecture and development of a commercial turn-based game.*
+* **Tech Stack:** Godot 4
+* **Focus:** Scalable software architecture, core game mechanics implementation, and managing the release pipeline and version control (targeting Steam 2027-2028).
 
-## 📊 GitHub Stats
+### [Index Order](https://github.com/XucyXi/Index-Orders)
+*A robust management tool and randomized generator with data persistence, designed for tabletop narrative scenarios.*
+* **Tech Stack:** Python, PySide6 GUI Framework
+* **Focus:** Cross-platform compatibility, UI state management, and structured data serialization.
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=XucyXi&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+### [Probability Simulator](https://github.com/XucyXi/die-roller)
+*A terminal-based statistical probability tool featuring cross-platform compatibility and an interactive user interface.*
+* **Tech Stack:** Python
+* **Focus:** Randomization logic, algorithmic efficiency, and user experience.
 
-🌟 **What I Bring to the Table**
+---
 
-* **Fullstack Proficiency:** Seamlessly work across frontend and backend technologies
-* **Clean Code Advocate:** Writing maintainable, well-documented code
-* **Problem Solver:** Analytical approach to complex technical challenges
-* **Continuous Learner:** Always exploring new technologies and best practices
-* **Project Diversity:** Experience across various domains and project types
-* **Team Leadership:** Led teams through multiple projects, fostering collaboration, clear communication, and timely delivery
+## Technical Approach
 
-## 💡 Philosophy
+I believe that excellent software is not just about functionality; it requires maintainability, scalability, and clarity. I advocate for clean code practices and prioritize the simplest, most effective solutions to complex problems. Whether driving development independently or leading a team, my focus remains on building robust architectures and fostering continuous learning.
 
-> "Good code is not just about making it work. It's about making it maintainable, scalable and understandable. The best solutions are often the simplest ones that solve the problem effectively. Although sometimes you have to go the rough way to get progress done."
+---
 
-## 📫 How to Contact Me
+## Metrics & Activity
 
-![Discord](https://img.shields.io/badge/Discord-xucy-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Email](https://img.shields.io/badge/xucyxi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=XucyXi&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black)](https://github.com/XucyXi)
 
-## 🎯 Currently Exploring
+---
 
-- Advanced JavaScript frameworks (React, Vue, Angular)
-- Cloud technologies and DevOps practices
-- Machine learning and data science applications
-- Artificial Intelligence technologies
-- Game development with GoDot 4
-- Open source contributions
+## Connect
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/jerevla/)
+* **Portfolio:** [xucystudios.com](https://xucystudios.com)
+* **Email:** xucyxi.dev@gmail.com
