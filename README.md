@@ -58,6 +58,6 @@ I believe that excellent software is not just about functionality; it requires m
 
 ## Connect
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/jerevla/)
+* **LinkedIn:** [linkedin.com/in/jerevla](https://linkedin.com/in/jerevla/)
 * **Portfolio:** [xucystudios.com](https://xucystudios.com)
 * **Email:** xucyxi.dev@gmail.com
